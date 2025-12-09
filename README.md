@@ -1,3 +1,5 @@
+![Welcome](welcome.gif)
+
 ### Hello, World! 👋
 
 - 🔭 I’m PHD student in Physics at the State University of Londrina
