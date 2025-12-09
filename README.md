@@ -1,4 +1,4 @@
-![Welcome](welcome_2.gif)
+![Welcome](welcome.gif)
 
 ### Hello, World! 👋
 
