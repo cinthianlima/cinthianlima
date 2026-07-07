@@ -1,4 +1,4 @@
-<img src="welcome.gif" width="300" alt="Welcome">
+<img src="welcome.gif" width="500" alt="Welcome">
 
 ### Hello, World! 👋
 
