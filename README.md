@@ -1,4 +1,4 @@
-![Welcome](welcome.gif)
+![Welcome](welcome.gif){:height="150px" width="300px"}
 
 ### Hello, World! 👋
 
