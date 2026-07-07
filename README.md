@@ -1,4 +1,6 @@
-<img src="welcome.gif" width="500" alt="Welcome">
+<div align="center">
+  <img src="welcome.gif" width="600" alt="Welcome">
+</div>
 
 ### Hello, World! 👋
 
